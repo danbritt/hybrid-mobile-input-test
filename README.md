@@ -4,9 +4,11 @@ Small meteor app to test input performance on android using material-ui and onse
 
 ### Prerequisities
 
+```
 Meteor 1.3
 JDK
 Android SDK
+```
 
 More info about setting up environment for android builds here: http://guide.meteor.com/mobile.html
 
