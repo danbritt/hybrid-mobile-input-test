@@ -34,7 +34,7 @@ class Home extends React.Component {
     render() {
         return (
             <div>
-				<Link to={'/materialui'}>MaterialUI</Link> | <Link to={'/onsenui'}>OnsenUI</Link>
+				<Link to={'/materialui'}>MaterialUI</Link> | <Link to={'/onsenui'}>OnsenUI</Link> | <Link to={'/onsenui2'}>OnsenUI 2</Link>
 			</div>
         );
     }

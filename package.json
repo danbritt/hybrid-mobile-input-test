@@ -8,12 +8,12 @@
     "history": "^2.1.1",
     "material-ui": "^0.15.0",
     "meteor-node-stubs": "~0.2.0",
-    "onsenui": "^2.0.0-rc.10",
+    "onsenui": "^2.0.0-rc.11",
     "react": "^15.1.0",
     "react-addons-pure-render-mixin": "^15.1.0",
     "react-addons-update": "^15.1.0",
     "react-dom": "^15.1.0",
-    "react-onsenui": "^0.4.1",
+    "react-onsenui": "^0.5.2",
     "react-router": "^2.4.1",
     "react-tap-event-plugin": "^1.0.0"
   }

@@ -14,6 +14,7 @@ import '../node_modules/onsenui/css/onsen-css-components.css';
 
 import Home from './Home.jsx';
 import OnsenUIPage from './OnsenUI.jsx';
+import OnsenUIPage2 from './OnsenUI2.jsx';
 import MaterialUIPage from './MaterialUI.jsx';
 
 
@@ -33,6 +34,7 @@ Meteor.startup(() => {
 			<Router history={browserHistory}>
 				<Route path="/" component={Home}></Route>
 				<Route path="/onsenui" component={OnsenUIPage}></Route>
+                <Route path="/onsenui2" component={OnsenUIPage2}></Route>
 				<Route path="/materialui" component={MaterialUIPage}></Route>
 			</Router>
         </MuiThemeProvider>,
